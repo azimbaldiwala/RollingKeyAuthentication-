@@ -15,5 +15,5 @@ In this project, I have Implemented a Rolling Key Mechanism in Java (Using Socke
 
 
 ### How to Run
-1. Run Server.java
-2. and then run, Client.java
+1. Run "Server.java"
+2. and then run "Client.java"
