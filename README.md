@@ -17,3 +17,7 @@ In this project, I have Implemented a Rolling Key Mechanism in Java (Using Socke
 ### How to Run
 1. Run "Server.java"
 2. and then run "Client.java"
+
+### Screenshots 
+![image](https://github.com/azimbaldiwala/RollingKeyAuthentication-/assets/83002384/7b5d31e4-d527-4ff9-9d71-343f6b21bd76)
+
