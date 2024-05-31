@@ -12,3 +12,8 @@ In this project, I have Implemented a Rolling Key Mechanism in Java (Using Socke
 
    Error Handling:
    The Client checks if three consecutive keys are mismatched then It generates a new random index value and sends it to the Server. 
+
+
+### How to Run
+1. Run Server.java
+2. and then run, Client.java
